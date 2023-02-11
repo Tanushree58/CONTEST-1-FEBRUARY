@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+.navbar{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+    color: white;
+    
+}
+.navbar p{
+    position: absolute;
+    top: 20px;
+    padding-left: 20px;
+}
+.container{
+    margin: 30px 60px 30px 30px;
+}
+
+.container p{
+    margin: 20px 0;
+}
+
+button{
+    width: 226px;
+height: 58px;
+background-color: black;
+color: white;
+}
+a{
+    color: white;
+    
+}
+#head2{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+#Olist{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+#Ulist{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+ol{
+    padding: 20px;
+}
+ul{
+    padding: 20px;
+}
